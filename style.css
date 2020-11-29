@@ -69,8 +69,6 @@ footer {
     background-color: var(--primary-color);
     padding: 1rem;
     max-width: var(--width);
-    position: fixed;
-    bottom: 0;
 }
 
 footer div {
