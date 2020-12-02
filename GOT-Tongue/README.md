@@ -2,7 +2,7 @@
 Contains source code of a GUI app made in vanilla JS that translates English to Dothraki, Valyrian and Hodor, the mythical languages spoken in the widely popular TV series Game of Thrones (aka GOT).
 
 ## Intended Audience:
-* MinionGOT fans
+* GOT fans
 * JS beginners interested to understand concepts related to DOM methods, GET request using fetch API, using fetch API in for loop and functions to process user input and show output in the required format
 
 ## Feedback:
